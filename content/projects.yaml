@@ -1,18 +1,21 @@
 - name: Instarem
   url: http://instarem.com/
-  description: Used for overseas money transfer.
+  description: Instarem is a web app that is used for overseas money transfer. Single handedly did revamp for various country corridors. Used React context api for A/B testing. Theming was also done with help of React-context api and styled component.  
   status: in progress
   tags:
     - JavaScript
-    - Gatsby
-  icon: github
-
-- name: Example 2
-  url: https://github.com
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
-  status: live
-  tags:
-    - JavaScript
-    - HTML
+    - React
+    - Redux
+    - Styled-components
   icon: website
-  image: images/project.jpg
+  image: images/Instarem.png
+
+- name: Asiacell Music App
+  url: http://ibexgroup.org/Asiacell_Music_Web/
+  description: Online Music player for Arabic Music. Built with react and styled-components.
+  status: down 
+  tags:
+    - React
+    - Styled-components
+  icon: website
+  # image: images/project.jpg
